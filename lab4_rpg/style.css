@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 2px solid black; 
+    /* 在放圖片前,可用邊框或是背景色,確認元素位置 */
+    background-image: url(images/grasses68.gif);
+}
+
+#talkBox {
+    height: 20px;
+    color: brown;
+    font-size: 26px;
+    font-weight: bold;
+}
